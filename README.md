@@ -39,7 +39,7 @@ The screening process includes the following steps:
 This folder includes **five tables** designed to support analysis our research questions (RQs):
 
 - `Full_Data_Extraction_from_30_papers.xlsx`  
-  Master dataset including article metadata such as title, authors, year, peer-reviewed status, and language.
+  Dataset including article metadata such as title, authors, year, peer-reviewed status, and language.
 
 - `Data_Extraction_for_RQ1.xlsx`  
   Used to analyze **RQ1** (Ontology development activities supported by LLMs).  
