@@ -5,9 +5,6 @@ This repo includes a complete reivewd paper selection process including 5 steps 
 Also, data extraction source also avilable to map with our defined research questions (RQs).
 
 
-## 
-
-Ontology Engineering (OE) remains a time-consuming and expert-intensive process. With the emergence of Large Language Models (LLMs), researchers have proposed a wide range of LLM-assisted approaches to support tasks such as concept extraction, competency question generation, ontology matching, and evaluation. This repository presents a structured and reproducible SLR to assess the current state of LLM applications in OE. A total of 30 peer-reviewed papers were selected following a multi-stage filtering process from an initial pool of 11,985 records. We identify 42 ontology development tasks and provide a breakdown of how LLMs support each task across model types, human involvement, evaluation strategies, and domain-specific contexts.
 
 
 
