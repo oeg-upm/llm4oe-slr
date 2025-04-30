@@ -1,4 +1,4 @@
-# 🧠 LLM4OE-SLR: A Systematic Literature Review on Large Language Models in Ontology Engineering
+# LLM4OE-SLR: A Systematic Literature Review on Large Language Models in Ontology Engineering
 
 This repository accompanies the paper:
 
@@ -10,7 +10,7 @@ Ontology Engineering Group, Universidad Politécnica de Madrid (UPM)
 
 ## 📝 Abstract
 
-Ontology Engineering (OE) is a multi-stage process requiring deep domain and modeling expertise. The recent advancement of Large Language Models (LLMs) opens new possibilities to support OE activities such as requirement specification, conceptualization, evaluation, and more. This systematic literature review analyzes **30 peer-reviewed papers** published between 2018 and 2024 that apply LLMs to OE tasks. We classify the tasks addressed, model roles, input/output types, human involvement, and evaluation strategies. We also identify challenges in reproducibility, evaluation, and benchmark scarcity.
+
 
 ---
 
