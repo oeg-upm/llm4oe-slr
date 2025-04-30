@@ -75,3 +75,13 @@ This enables users and researchers to easily locate the resources used in LLM-ba
 
 ---
 
+### 📄 `Figures/`
+
+You can find the full paper selection flowchart in:  
+➡️ `Figures/LLM4OE_SLR_search_pipeline.pdf`
+
+Additionally, we provide a visual representation of RQ1 (LLM-supported OE activities):  
+➡️ `Figures/Figure_for_RQ1.pdf`
+
+
+
