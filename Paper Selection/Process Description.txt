@@ -1,0 +1,26 @@
+This page use to decalre the paper selection table file, each step of the process is documented across different sheets in the Excel file for full transparency and traceability.
+
+The preadsheet in the table documenting the systematic screening process for selecting relevant studies on LLM-based Ontology Engineering (OE) activities. 
+The process involved the following steps:
+
+1#Raw Search
+Initial search results were retrieved from five major academic sources (Web of Science, ACM Digital Library, IEEE Xplore, Scopus, and Google Scholar), yielding 11,985 records based on predefined keywords, time range, and language filters.
+
+2#Duplicate Removal
+Automatic deduplication across sources reduced the dataset to 5,275 unique entries.
+
+3#Title Screening
+Manual title screening was performed, narrowing down the pool to 204 papers deemed potentially relevant.
+
+4#Abstract & Peer-Review Filtering
+Two filters were applied to the 204 papers:
+Peer-reviewed status
+Abstract-reviewed to check if have LLMs for OE tasks
+This step resulted in 38 papers.
+After further review, 8 papers were excluded due to misalignment with the research task (marked with strikethrough in the table), leading to 30 final studies.
+
+5#Final Inclusion
+The remaining 30 papers form the core dataset for analysis.
+A total of 42 LLM-based OE activities were identified and summarized from these studies.
+
+
