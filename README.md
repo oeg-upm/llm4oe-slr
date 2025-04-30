@@ -36,7 +36,7 @@ The screening process includes the following steps:
 
 ### 📂 `Data Extraction/`
 
-This folder includes **five tables** designed to support analysis for the four research questions (RQs):
+This folder includes **five tables** designed to support analysis our research questions (RQs):
 
 - `Full_Data_Extraction_from_30_papers.xlsx`  
   Master dataset including article metadata such as title, authors, year, peer-reviewed status, and language.
