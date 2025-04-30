@@ -1,13 +1,64 @@
 # LLM4OE-SLR
 
-Large Language Models (LLMs) are increasingly being used to support ontology engineering (OE) tasks, yet a comprehensive understanding of their roles, effectiveness, and application domains remains limited. This project presents a **Systematic Literature Review (SLR)** focused on how LLMs contribute to various phases of ontology development. We analyzd 30 peer-reviewed papeers published between 2018 and 2024 and extracting 41 distinct OE tasks where LLMs are applied. 
-This repo includes a complete reivewd paper selection process including 5 steps to get the final 30 papers.
-Also, data extraction source also avilable to map with our defined research questions (RQs).
+Large Language Models (LLMs) are increasingly being used to support ontology engineering (OE) tasks, yet a comprehensive understanding of their roles, effectiveness, and application domains remains limited. This project presents a **Systematic Literature Review (SLR)** focused on how LLMs contribute to various phases of ontology development. We analyzed 30 peer-reviewed papers published between 2018 and 2024 and extracted 41 distinct OE tasks where LLMs are applied.  
+This repository includes a complete review paper selection process comprising 5 filtering steps to obtain the final 30 papers.  
+Additionally, we provide structured data extraction tables to support mapping with our defined research questions (RQs).
 
-
-
+---
 
 ## 📁 Repository Structure
 
-llm4oe-slr/ ├── Paper Selection/ # Raw search results, deduplicated sets, and selection logics │ ├── Raw_Search.xlsx │ ├── Raw_removed_duplicates.xlsx │ ├── Title_Reviewed_with_Filters.xlsx │ ├── Final_30_Papers.xlsx │ └── Process Description.txt │ ├── Data Extraction/ # Extracted data from the final 30 papers │ ├── Full_Dataset.xlsx │ ├── Q1_Activities.xlsx │ ├── Q2_LLM_Support.xlsx │ ├── Q3_Evaluation.xlsx │ └── Q4_Domains.xlsx │ ├── Figures/ # Paper selection flowchart and visual summaries │ └── paper_selection_flow.png │ └── README.md # Project description and usage guide
+### 📂 `Paper Selection/`
+
+This folder documents the **paper selection process**, with each filtering step tracked in individual Excel sheets for full transparency and reproducibility.
+
+The screening process includes the following steps:
+
+1. **Raw Search**  
+   Initial search results retrieved from five major academic databases (Web of Science, ACM Digital Library, IEEE Xplore, Scopus, and Google Scholar), yielding **11,985 records** based on predefined keywords, time range, and language filters.
+
+2. **Duplicate Removal**  
+   Automatic deduplication across databases reduced the dataset to **5,275 unique entries**.
+
+3. **Title Screening**  
+   Manual title screening was performed, narrowing the pool to **204 potentially relevant papers**.
+
+4. **Abstract & Peer-Review Filtering**  
+   We applied two filters:
+   - Peer-reviewed status
+   - Abstract relevance to LLM-based ontology engineering  
+   This resulted in **38 papers**.  
+   After further inspection, **8 papers were excluded** due to lack of alignment with our scope (marked with strikethrough in the spreadsheet), leading to **30 final included studies**.
+
+5. **Final Inclusion**  
+   These 30 papers form the core dataset for downstream analysis.  
+   From them, we extracted **42 LLM-based OE activities**, summarized across the ontology development pipeline.
+
+---
+
+### 📂 `Data Extraction/`
+
+This folder includes **five tables** designed to support analysis for the four research questions (RQs):
+
+- `Full_Data_Extraction_from_30_papers.xlsx`  
+  Master dataset including article metadata such as title, authors, year, peer-reviewed status, and language.
+
+- `Data_Extraction_for_RQ1.xlsx`  
+  Used to analyze **RQ1** (Ontology development activities supported by LLMs).  
+  Includes activity name, task definitions, and corresponding papers.
+
+- `Data_Extraction_for_RQ2.xlsx`  
+  Used to analyze **RQ2** (How LLMs support OE activities).  
+  Contains roles of LLMs, types of models used, input/output formats, and whether human-in-the-loop was involved.
+
+- `Data_Extraction_for_RQ3.xlsx`  
+  Used to analyze **RQ3** (Performance evaluation).  
+  Includes experiment existence, evaluation methods (quantitative, qualitative, hybrid), datasets used, metrics, and reported results.
+
+- `Data_Extraction_for_RQ4.xlsx`  
+  Used to analyze **RQ4** (Application domains).  
+  Lists domains where LLMs have been applied, such as healthcare, education, and finance.
+
+---
+
 
