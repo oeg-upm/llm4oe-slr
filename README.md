@@ -1,8 +1,6 @@
 # LLM4OE-SLR
 
 Large Language Models (LLMs) are increasingly being used to support ontology engineering (OE) tasks, yet a comprehensive understanding of their roles, effectiveness, and application domains remains limited. This project presents a **Systematic Literature Review (SLR)** focused on how LLMs contribute to various phases of ontology development. We analyzed 30 peer-reviewed papers published between 2018 and 2024 and extracted 41 distinct OE tasks where LLMs are applied.  
-This repository includes a complete review paper selection process comprising 5 filtering steps to obtain the final 30 papers.  
-Additionally, we provide structured data extraction tables to support mapping with our defined research questions (RQs).
 
 ---
 
@@ -32,7 +30,7 @@ The screening process includes the following steps:
 
 5. **Final Inclusion**  
    These 30 papers form the core dataset for downstream analysis.  
-   From them, we extracted **42 LLM-based OE activities**, summarized across the ontology development pipeline.
+   From them, we extracted **41 LLM-based OE activities**, summarized across the ontology development pipeline.
 
 ---
 
@@ -61,4 +59,19 @@ This folder includes **five tables** designed to support analysis for the four r
 
 ---
 
+### 📂 `Experiment Datasets/`
+
+Furthermore, in this folder we compiled a comprehensive summary of ** experiment datasets** used in the experiments evaluation reported by the included studies.  
+For each dataset.
+
+- The dataset summary table is available at:  
+  `full_experiment_datasets_summary.xlsx`
+  For each dataset, we list:
+- Acronym and full name  
+- Access URL  
+- Application domain (e.g., Medicine, Music, Anatomy)
+
+This enables users and researchers to easily locate the resources used in LLM-based OE evaluations and potentially reuse them for futher benchmark creation.
+
+---
 
