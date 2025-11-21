@@ -4,9 +4,9 @@ Large Language Models (LLMs) are increasingly being used to support ontology eng
 
 ---
 
-## 📁 Repository Structure
+## Repository Structure
 
-### 📂 `Paper Selection/`
+### `Paper Selection/`
 
 This folder documents the **paper selection process**, with each filtering step tracked in individual Excel sheets for full transparency and reproducibility.
 
@@ -34,7 +34,7 @@ The screening process includes the following steps:
 
 ---
 
-### 📂 `Data Extraction/`
+### `Data Extraction/`
 
 This folder includes **five tables** designed to support analysis our research questions (RQs):
 
@@ -59,29 +59,30 @@ This folder includes **five tables** designed to support analysis our research q
 
 ---
 
-### 📂 `Experiment Datasets/`
+### `Experiment Datasets/`
 
 Furthermore, in this folder we compiled a comprehensive summary of ** experiment datasets** used in the experiments evaluation reported by the included studies.  
 For each dataset.
 
 - The dataset summary table is available at:  
   `full_experiment_datasets_summary.xlsx`
-  For each dataset, we list:
+  
+For each dataset, we list:
 - Acronym and full name  
 - Access URL  
 - Application domain (e.g., Medicine, Music, Anatomy)
 
-This enables users and researchers to easily locate the resources used in LLM-based OE evaluations and potentially reuse them for futher benchmark creation.
-
 ---
 
-### 📄 `Figures/`
+### `Figures/`
+
+Here we list the code sources and code used for generating the figure sin the survey
 
 You can find the full paper selection flowchart in:  
-➡️ `Figures/LLM4OE_SLR_search_pipeline.pdf`
+- `Figures/LLM4OE_SLR_search_pipeline.pdf`
 
 Additionally, we provide a visual representation of RQ1 (LLM-supported OE activities):  
-➡️ `Figures/Figure_for_RQ1.pdf`
+- `Figures/Figure_for_RQ1.pdf`
 
 
 
