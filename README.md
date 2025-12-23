@@ -1,4 +1,4 @@
-# LLM4OE-SLR
+# LLM4OE-SLR [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.15313672.svg)](https://doi.org/10.5281/zenodo.15313672)
 
 Large Language Models (LLMs) are increasingly being used to support ontology engineering (OE) tasks, yet a comprehensive understanding of their roles, effectiveness, and application domains remains limited. This project presents a **Systematic Literature Review (SLR)** focused on how LLMs contribute to various phases of ontology development. We analyzed 30 peer-reviewed papers published between 2018 and 2024 and extracted 41 distinct OE tasks where LLMs are applied.  
 
