@@ -78,7 +78,11 @@ For each dataset, we list:
 
 Here we list the code sources and code used for generating the figure sin the survey
 
-The full paper selection flowchart: https://github.com/oeg-upm/llm4oe-slr/blob/main/Figures/LLM4OE_SLR_search_pipeline.pdf
+The full paper selection flowchart
+<img 
+  src="https://github.com/oeg-upm/llm4oe-slr/blob/main/Figures/LLM4OE_SLR_search_pipeline.pdf"
+  width="800"
+/>
 
 Additionally, we provide a visual representation of RQ1 (LLM-supported OE activities):  
 - `Figures/Figure_for_RQ1.pdf`
