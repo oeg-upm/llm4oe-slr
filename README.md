@@ -1,6 +1,6 @@
 # LLM4OE-SLR [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.15313672.svg)](https://doi.org/10.5281/zenodo.15313672)
 
-Large Language Models (LLMs) are increasingly being used to support ontology engineering (OE) tasks, yet a comprehensive understanding of their roles, effectiveness, and application domains remains limited. This project presents a **Systematic Literature Review (SLR)** focused on how LLMs contribute to various phases of ontology development. We analyzed 30 peer-reviewed papers published between 2018 and 2024 and extracted 41 distinct OE tasks where LLMs are applied.  
+Large Language Models (LLMs) are increasingly being used to support ontology engineering (OE) tasks, yet a comprehensive understanding of their roles, effectiveness, and application domains remains limited. This project presents a **Systematic Literature Review (SLR)** focused on how LLMs contribute to various phases of ontology development. We analyzed 30 peer-reviewed papers published between 2018 and 2024 and extracted 41 distinct OE tasks where LLMs are applied. 
 
 ---
 
@@ -78,8 +78,7 @@ For each dataset, we list:
 
 Here we list the code sources and code used for generating the figure sin the survey
 
-You can find the full paper selection flowchart in:  
-- `Figures/LLM4OE_SLR_search_pipeline.pdf`
+The full paper selection flowchart: https://github.com/oeg-upm/llm4oe-slr/blob/main/Figures/LLM4OE_SLR_search_pipeline.pdf
 
 Additionally, we provide a visual representation of RQ1 (LLM-supported OE activities):  
 - `Figures/Figure_for_RQ1.pdf`
