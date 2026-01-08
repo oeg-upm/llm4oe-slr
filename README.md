@@ -84,7 +84,7 @@ This directory contains the figures included in the survey, along with the sourc
 **Research Question RQ1 – LLM-Supported Ontology Engineering Activities**  
 - `Figures/Figure_for_RQ1.pdf`
 
-**Overview of LLM-supported ontology engineering tasks based on 41 experiments from 30 papers.7**  
--'Figures/Taxonomic framework of LLM-supported ontology engineering tasks.svg`
+**Overview of LLM-supported ontology engineering tasks based on 41 experiments from 30 papers**  
+- `Figures/Taxonomic framework of LLM-supported ontology engineering tasks.svg`
 
 
