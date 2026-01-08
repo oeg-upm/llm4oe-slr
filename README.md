@@ -47,7 +47,7 @@ This folder includes **five tables** designed to support analysis our research q
 
 - `Data_Extraction_for_RQ2.xlsx`  
   Used to analyze **RQ2** (How LLMs support OE activities).  
-  Contains roles of LLMs, types of models used, input/output formats, and whether human-in-the-loop was involved.
+  Contains roles of LLMs, types of models used, prompt techniques, input/output formats, and whether human-in-the-loop was involved.
 
 - `Data_Extraction_for_RQ3.xlsx`  
   Used to analyze **RQ3** (Performance evaluation).  
