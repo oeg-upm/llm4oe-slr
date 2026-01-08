@@ -76,16 +76,15 @@ For each dataset, we list:
 
 ### `Figures/`
 
-Here we list the code sources and code used for generating the figure sin the survey
+This directory contains the figures included in the survey, along with the source files and scripts used to generate them.
 
-The full paper selection flowchart
-<img 
-  src="https://github.com/oeg-upm/llm4oe-slr/blob/main/Figures/LLM4OE_SLR_search_pipeline.pdf"
-  width="800"
-/>
+**Paper Selection Process**  
+- `Figures/LLM4OE_SLR_search_pipeline.pdf`
 
-Additionally, we provide a visual representation of RQ1 (LLM-supported OE activities):  
+**Research Question RQ1 – LLM-Supported Ontology Engineering Activities**  
 - `Figures/Figure_for_RQ1.pdf`
 
+**Overview of LLM-supported ontology engineering tasks based on 41 experiments from 30 papers.7**  
+-'Figures/Taxonomic framework of LLM-supported ontology engineering tasks.svg`
 
 
