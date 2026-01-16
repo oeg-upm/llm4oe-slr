@@ -79,7 +79,7 @@ For each dataset, we list:
 This directory contains the figures included in the survey, along with the source files and scripts used to generate them.
 
 **Paper Selection Process**  
-- `Figures/LLM4OE_SLR_search_pipeline.pdf`
+- `Figures/LLM4OE_SLR_search_pipeline.pdf`(Figures/LLM4OE_SLR_search_pipeline.pdf)
 
 **Research Question RQ1 – LLM-Supported Ontology Engineering Activities**  
 - `Figures/Figure_for_RQ1.pdf`
