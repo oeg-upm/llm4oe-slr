@@ -41,7 +41,7 @@ This folder includes **five tables** designed to support analysis our research q
 - `Full_Data_Extraction_from_30_papers.xlsx`  
   Dataset including article metadata such as title, authors, year, peer-reviewed status, and language.
 
-- `Data_Extraction_for_RQ1.xlsx`  
+- `Data_Extraction_for_RQ1.xlsx`(https://github.com/oeg-upm/llm4oe-slr/blob/main/Data%20Extraction/Data_Extraction_for_RQ1.xlsx)
   Used to analyze **RQ1** (Ontology development activities supported by LLMs).  
   Includes activity name, task definitions, and corresponding papers.
 
