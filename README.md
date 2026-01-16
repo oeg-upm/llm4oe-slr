@@ -38,23 +38,23 @@ The screening process includes the following steps:
 
 This folder includes **five tables** designed to support analysis our research questions (RQs):
 
-- `Full_Data_Extraction_from_30_papers.xlsx`  
+- `Full_Data_Extraction_from_30_papers.xlsx`(https://github.com/oeg-upm/llm4oe-slr/blob/main/Data%20Extraction/Full_Data_Extraction_from_30_papers.xlsx) 
   Dataset including article metadata such as title, authors, year, peer-reviewed status, and language.
 
 - `Data_Extraction_for_RQ1.xlsx`(https://github.com/oeg-upm/llm4oe-slr/blob/main/Data%20Extraction/Data_Extraction_for_RQ1.xlsx)
   Used to analyze **RQ1** (Ontology development activities supported by LLMs).  
   Includes activity name, task definitions, and corresponding papers.
 
-- `Data_Extraction_for_RQ2.xlsx`  
+- `Data_Extraction_for_RQ2.xlsx`(https://github.com/oeg-upm/llm4oe-slr/blob/main/Data%20Extraction/Data_Extraction_for_RQ2.xlsx)
   Used to analyze **RQ2** (How LLMs support OE activities).  
   Contains roles of LLMs, types of models used, prompt techniques, input/output formats, and whether human-in-the-loop was involved.
 
-- `Data_Extraction_for_RQ3.xlsx`  
+- `Data_Extraction_for_RQ3.xlsx`(https://github.com/oeg-upm/llm4oe-slr/blob/main/Data%20Extraction/Data_Extraction_for_RQ3.xlsx)
   Used to analyze **RQ3** (Performance evaluation).  
   Includes experiment existence, evaluation methods (quantitative, qualitative, hybrid), datasets used, metrics, and reported results.
 
 - `Data_Extraction_for_RQ4.xlsx`  
-  Used to analyze **RQ4** (Application domains).  
+  Used to analyze **RQ4** (Application domains).(https://github.com/oeg-upm/llm4oe-slr/blob/main/Data%20Extraction/Data_Extraction_for_RQ4.xlsx) 
   Lists domains where LLMs have been applied, such as healthcare, education, and finance.
 
 ---
@@ -62,7 +62,7 @@ This folder includes **five tables** designed to support analysis our research q
 ### `Experiment Datasets/`
 
 Furthermore, in this folder we compiled a comprehensive summary of ** experiment datasets** used in the experiments evaluation reported by the included studies.  
-For each dataset.
+For each dataset.(https://github.com/oeg-upm/llm4oe-slr/blob/main/Experiment%20Datasets/full_experiment_datasets_summary.xlsx)
 
 - The dataset summary table is available at:  
   `full_experiment_datasets_summary.xlsx`
@@ -79,12 +79,12 @@ For each dataset, we list:
 This directory contains the figures included in the survey, along with the source files and scripts used to generate them.
 
 **Paper Selection Process**  
-- `Figures/LLM4OE_SLR_search_pipeline.pdf`(Figures/LLM4OE_SLR_search_pipeline.pdf)
+- `Figures/LLM4OE_SLR_search_pipeline.pdf`(https://github.com/oeg-upm/llm4oe-slr/blob/main/Figures/LLM4OE_SLR_search_pipeline.pdf)
 
 **Research Question RQ1 – LLM-Supported Ontology Engineering Activities**  
-- `Figures/Figure_for_RQ1.pdf`
+- `Figures/Figure_for_RQ1.pdf`(https://github.com/oeg-upm/llm4oe-slr/blob/main/Figures/Figure_for_RQ1.pdf)
 
 **Overview of LLM-supported ontology engineering tasks based on 41 experiments from 30 papers**  
-- `Figures/Taxonomic framework of LLM-supported ontology engineering tasks.svg`
+- `Figures/Taxonomic framework of LLM-supported ontology engineering tasks.svg`(https://github.com/oeg-upm/llm4oe-slr/blob/main/Figures/Taxonomic%20framework%20of%20LLM-supported%20ontology%20engineering%20tasks.svg)
 
 
