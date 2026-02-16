@@ -1,3 +1,4 @@
+
 import plotly.graph_objects as go
 import colorsys
 import textwrap
@@ -35,10 +36,10 @@ true_values = {
     "Ontology publication": 5,
     "Ontology maintenance": 1,
     "Functional requirements writing": 2,
-    "CQ reverse engineering": 5,
+    "CQ reverse engineering": 6,
     "Requirement formalization": 3,
-    "Conceptualization": 8,
-    "Encoding": 8,
+    "Conceptualization": 10,
+    "Encoding": 10,
     "Ontology matching": 5,
     "Ontology evaluation": 4,
     "Ontology documentation": 5,
