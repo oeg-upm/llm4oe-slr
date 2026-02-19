@@ -30,7 +30,7 @@ The screening process includes the following steps:
 
 5. **Final Inclusion**  
    These 30 papers form the core dataset for downstream analysis.  
-   From them, we extracted **41 LLM-based OE activities**, summarized across the ontology development pipeline.
+   From them, we extracted **46 LLM-based OE activities**, summarized across the ontology development pipeline.
 
 ---
 
@@ -38,7 +38,7 @@ The screening process includes the following steps:
 
 This folder includes **five tables** designed to support analysis our research questions (RQs):
 
-- `Full_Data_Extraction_from_30_papers.xlsx`(https://github.com/oeg-upm/llm4oe-slr/blob/main/Data%20Extraction/Full_Data_Extraction_from_30_papers.xlsx) 
+- `Full_Data_Extraction_from_46_papers.xlsx`(https://github.com/oeg-upm/llm4oe-slr/blob/main/Data%20Extraction/Full_Data_Extraction_from_46_papers.xlsx) 
   Dataset including article metadata such as title, authors, year, peer-reviewed status, and language.
 
 - `Data_Extraction_for_RQ1.xlsx`(https://github.com/oeg-upm/llm4oe-slr/blob/main/Data%20Extraction/Data_Extraction_for_RQ1.xlsx)
@@ -84,7 +84,7 @@ This directory contains the figures included in the survey, along with the sourc
 **Research Question RQ1 – LLM-Supported Ontology Engineering Activities**  
 - `Figures/Figure_for_RQ1.pdf`(https://github.com/oeg-upm/llm4oe-slr/blob/main/Figures/Figure_for_RQ1.pdf)
 
-**Overview of LLM-supported ontology engineering tasks based on 41 experiments from 30 papers**  
+**Overview of LLM-supported ontology engineering tasks based on 46 experiments from 34 papers**  
 - `Figures/Taxonomic framework of LLM-supported ontology engineering tasks.svg`(https://github.com/oeg-upm/llm4oe-slr/blob/main/Figures/Taxonomic%20framework%20of%20LLM-supported%20ontology%20engineering%20tasks.svg)
 
 
