@@ -13,20 +13,20 @@ This folder documents the **paper selection process**, with each filtering step 
 The screening process includes the following steps:
 
 1. **Raw Search**  
-   Initial search results retrieved from five major academic databases (Web of Science, ACM Digital Library, IEEE Xplore, Scopus, and Google Scholar), yielding **11,985 records** based on predefined keywords, time range, and language filters.
+   Initial search results retrieved from five major academic databases (Web of Science, ACM Digital Library, IEEE Xplore, Scopus, and Google Scholar), yielding **15,688 records** based on predefined keywords, time range, and language filters.
 
 2. **Duplicate Removal**  
-   Automatic deduplication across databases reduced the dataset to **5,275 unique entries**.
+   Automatic deduplication across databases reduced the dataset to **7,179 unique entries**.
 
 3. **Title Screening**  
-   Manual title screening was performed, narrowing the pool to **204 potentially relevant papers**.
+   Manual title screening was performed, narrowing the pool to **271 potentially relevant papers**.
 
 4. **Abstract & Peer-Review Filtering**  
    We applied two filters:
    - Peer-reviewed status
    - Abstract relevance to LLM-based ontology engineering  
-   This resulted in **38 papers**.  
-   After further inspection, **8 papers were excluded** due to lack of alignment with our scope (marked with strikethrough in the spreadsheet), leading to **30 final included studies**.
+   This resulted in **46 papers**.  
+   After further inspection, **12 papers were excluded** due to lack of alignment with our scope (marked with strikethrough in the spreadsheet), leading to **34 final included studies**.
 
 5. **Final Inclusion**  
    These 30 papers form the core dataset for downstream analysis.  
