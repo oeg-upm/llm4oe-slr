@@ -25,8 +25,8 @@ The screening process includes the following steps:
    We applied two filters:
    - Peer-reviewed status
    - Abstract relevance to LLM-based ontology engineering  
-   This resulted in **46 papers**.  
-   After further inspection, **12 papers were excluded** due to lack of alignment with our scope or some were grouped with prior approaches, subsequently excluded because they overlapped.(marked with strikethrough      in the spreadsheet),
+    This resulted in **46 papers**.  
+    After further inspection, **12 papers were excluded** due to lack of alignment with our scope or some were grouped with prior approaches, subsequently excluded because they overlapped.(marked with strike through in the spreadsheet),
 
 
 leading to **34 final included studies**.
