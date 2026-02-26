@@ -13,10 +13,10 @@ This folder documents the **paper selection process**, with each filtering step 
 The screening process includes the following steps:
 
 1. **Raw Search**  
-   Initial search results retrieved from five major academic databases (Web of Science, ACM Digital Library, IEEE Xplore, Scopus, and Google Scholar), yielding **15,688 records** based on predefined keywords, time range, and language filters.
+   Initial search results retrieved from five major academic databases (Web of Science, ACM Digital Library, IEEE Xplore, Scopus, and Google Scholar), yielding **15,688 papers** based on predefined keywords, time range, and language filters.
 
 2. **Duplicate Removal**  
-   Automatic deduplication across databases reduced the dataset to **7,179 unique entries**.
+   Automatic deduplication across databases reduced the dataset to **7,179 unique papers**.
 
 3. **Title Screening**  
    Manual title screening was performed, narrowing the pool to **271 potentially relevant papers**.
@@ -26,11 +26,11 @@ The screening process includes the following steps:
    - Peer-reviewed status
    - Abstract relevance to LLM-based ontology engineering  
     This resulted in **46 papers**.  
-    After further inspection, **12 papers were excluded** due to lack of alignment with our scope or some were grouped with prior approaches, subsequently excluded because they overlapped.(marked with strike through in the spreadsheet), leading to **34 final included studies**.
+    After further inspection, **12 papers were excluded** due to lack of alignment with our scope or some were grouped with prior approaches, subsequently excluded because they overlapped.(marked with strike through in the spreadsheet), leading to **34 final included papers**.
 
 5. **Final Inclusion**  
-   These 34 papers form the core dataset for downstream analysis.  
-   From them, we extracted **46 LLM-based OE activities**, summarized across the ontology development pipeline.
+   These **34 papers** form the core dataset for downstream analysis.  
+   From them, we extracted **46 LLM-based OE studies**, summarized across the ontology development pipeline.
 
 ---
 
