@@ -31,15 +31,15 @@ values = [
 
 
 true_values = {
-    "Requirements specification": 10,
-    "Ontology implementation": 25,
+    "Requirements specification": 12,
+    "Ontology implementation": 31,
     "Ontology publication": 5,
     "Ontology maintenance": 1,
     "Functional requirements writing": 2,
-    "CQ reverse engineering": 6,
+    "CQ reverse engineering": 7,
     "Requirement formalization": 3,
-    "Conceptualization": 10,
-    "Encoding": 10,
+    "Conceptualization": 11,
+    "Encoding": 11,
     "Ontology matching": 5,
     "Ontology evaluation": 4,
     "Ontology documentation": 5,
@@ -47,7 +47,7 @@ true_values = {
 }
 
 
-total = 41
+total = 49
 
 
 phase_colors = {
