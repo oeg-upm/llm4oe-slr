@@ -38,7 +38,7 @@ The screening process includes the following steps:
 
 This folder includes **five tables** designed to support analysis our research questions (RQs):
 
-- `Full_Data_Extraction_from_49_papers.xlsx`(https://github.com/oeg-upm/llm4oe-slr/blob/main/Data%20Extraction/Full_Data_Extraction_from_36_papers.xlsx) 
+- `Full_Data_Extraction_from_36_papers.xlsx`(https://github.com/oeg-upm/llm4oe-slr/blob/main/Data%20Extraction/Full_Data_Extraction_from_36_papers.xlsx) 
   Dataset including article metadata such as title, authors, year, peer-reviewed status, and language.
 
 - `Data_Extraction_for_RQ1.xlsx`(https://github.com/oeg-upm/llm4oe-slr/blob/main/Data%20Extraction/Data_Extraction_for_RQ1.xlsx)
