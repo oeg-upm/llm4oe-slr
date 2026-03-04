@@ -26,11 +26,11 @@ The screening process includes the following steps:
    - Peer-reviewed status
    - Abstract relevance to LLM-based ontology engineering  
     This resulted in **46 papers**.  
-    After further inspection, **12 papers were excluded** due to lack of alignment with our scope or some were grouped with prior approaches, subsequently excluded because they overlapped.(marked with strike through in the spreadsheet), leading to **34 final included papers**.
+    After further inspection, **10 papers were excluded** due to lack of alignment with our scope (marked with strike through in the spreadsheet), leading to **36 final included papers**.
 
 5. **Final Inclusion**  
-   These **34 papers** form the core dataset for downstream analysis.  
-   From them, we extracted **46 LLM-based OE studies**, summarized across the ontology development pipeline.
+   These **36 papers** form the core dataset for downstream analysis.  
+   From them, we extracted **49 LLM-based OE studies**, summarized across the ontology development pipeline.
 
 ---
 
@@ -38,7 +38,7 @@ The screening process includes the following steps:
 
 This folder includes **five tables** designed to support analysis our research questions (RQs):
 
-- `Full_Data_Extraction_from_46_papers.xlsx`(https://github.com/oeg-upm/llm4oe-slr/blob/main/Data%20Extraction/Full_Data_Extraction_from_46_papers.xlsx) 
+- `Full_Data_Extraction_from_49_papers.xlsx`(https://github.com/oeg-upm/llm4oe-slr/blob/main/Data%20Extraction/Full_Data_Extraction_from_49_papers.xlsx) 
   Dataset including article metadata such as title, authors, year, peer-reviewed status, and language.
 
 - `Data_Extraction_for_RQ1.xlsx`(https://github.com/oeg-upm/llm4oe-slr/blob/main/Data%20Extraction/Data_Extraction_for_RQ1.xlsx)
@@ -61,7 +61,7 @@ This folder includes **five tables** designed to support analysis our research q
 
 ### `Experiment Datasets/`
 
-Furthermore, in this folder we compiled a comprehensive summary of ** experiment datasets** used in the experiments evaluation reported by the included studies.  
+Furthermore, in this folder, we compiled a comprehensive summary of ** experiment datasets** used in the experiments evaluation reported by the included studies.  
 For each dataset.(https://github.com/oeg-upm/llm4oe-slr/blob/main/Experiment%20Datasets/full_experiment_datasets_summary.xlsx)
 
 - The dataset summary table is available at:  
